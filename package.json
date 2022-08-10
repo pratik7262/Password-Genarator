@@ -1,0 +1,19 @@
+{
+  "name": "password-genarator",
+  "version": "1.0.0",
+  "description": "This is Password-Genarator can be use for genarating password for your accounts ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passwordGenarator"
+  ],
+  "author": "Pratik Shinde",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "generate-password": "^1.7.0",
+    "pug": "^3.0.2"
+  }
+}
