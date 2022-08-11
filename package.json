@@ -4,6 +4,7 @@
   "description": "This is Password-Genarator can be use for genarating password for your accounts ",
   "main": "app.js",
   "scripts": {
+    "start":"node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
